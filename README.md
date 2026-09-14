@@ -1,94 +1,85 @@
 HR Analytics Dashboard
+Project Description
 
-Project Overview
-The HR Analytics Dashboard is an interactive data visualization project created using Microsoft Power BI. The purpose of this project is to analyze employee data and present meaningful HR insights through interactive charts, graphs, KPIs, and filters.
-The dashboard provides an overview of employee job satisfaction, work-life balance, monthly income, performance, education level, marital status, department, job level, and years at the company.
+This project is an interactive HR Analytics Dashboard created using Microsoft Power BI. The dashboard is designed to analyze employee data and provide useful insights into different aspects of the workforce.
+
+The dashboard presents information related to job satisfaction, monthly income, performance, environment satisfaction, work-life balance, education level, marital status, department, job level, and years at the company.
+
+The main purpose of this project is to transform HR data into meaningful visualizations that can help in understanding employee trends and support data-driven decision-making.
 
 Objectives
-Analyze employee-related data using Power BI.
-Understand employee job satisfaction and performance.
-Compare work-life balance across departments.
-Analyze employee distribution based on education and marital status.
-Study the relationship between monthly income, job satisfaction, and job level.
-Create an interactive dashboard to support data-driven HR analysis.
-Tools & Technologies
-Microsoft Power BI – Dashboard development and visualization
-Power Query – Data cleaning and transformation
-DAX – Calculations and measures
-Microsoft Excel – Data source and data preparation
-Dashboard Features
-Interactive Filters
+To analyze employee data using Microsoft Power BI.
+To understand employee job satisfaction and performance.
+To analyze work-life balance across different departments.
+To study employee distribution based on education level and marital status.
+To analyze the relationship between job satisfaction and monthly income.
+To examine the relationship between years at the company and monthly income.
+To create an interactive and user-friendly HR dashboard.
+Tools and Technologies Used
+Microsoft Power BI
+Power Query
+DAX
+Microsoft Excel
+Dashboard Components
 
-The dashboard includes the following slicers:
+The dashboard contains interactive slicers and visualizations for detailed HR analysis.
+
+Interactive Filters
 Gender
 Department
 Education Level
-
-These filters allow users to explore the data based on different employee categories.
-
 Key Performance Indicators
-
-The dashboard displays:
 Average Job Satisfaction
 Average Monthly Income
 Average Performance Rating
 Average Environment Satisfaction
-Visualizations
-
-The dashboard includes:
-Employee Count by Job Satisfaction
+Charts and Visualizations
+Sum of Employee Count by Job Satisfaction
 Work-Life Balance Analysis by Department
-Monthly Income by Job Satisfaction
-Employee Count by Marital Status
-Employee Count by Education Level
+Sum of Monthly Income by Job Satisfaction
+Sum of Employee Count by Marital Status
+Sum of Employee Count by Education Level
 Years at Company and Monthly Income by Education Field and Department
 Job Satisfaction and Job Level Analysis
-Data Analysis
+Key Insights
 
-<img width="1920" height="1080" alt="Screenshot 2026-09-14 174913" src="https://github.com/user-attachments/assets/bca496f1-a022-4aad-9346-477581f60035" />
+The dashboard provides insights into:
 
-
-The dashboard helps identify patterns and relationships in the HR dataset, including:
-
-Distribution of employees according to job satisfaction.
-Differences in work-life balance among departments.
-Changes in monthly income across job satisfaction levels.
+Employee satisfaction levels across different job satisfaction categories.
+Work-life balance across Human Resources, Research & Development, and Sales departments.
+Monthly income across different levels of job satisfaction.
 Employee distribution based on marital status.
-Employee distribution across different education levels.
-Relationship between years at the company and monthly income.
-Comparison of job satisfaction and job levels.
+Employee distribution according to education level.
+The relationship between years spent at the company and monthly income.
+The relationship between job satisfaction and job level. 
+
 Project Workflow
-HR Dataset
-    ↓
-Data Cleaning & Transformation
-    ↓
-Power Query
-    ↓
-Data Modeling
-    ↓
-DAX Calculations
-    ↓
+Collected the HR employee dataset.
+Imported the data into Power BI.
+Cleaned and transformed the data using Power Query.
+Prepared the data for analysis and visualization.
+Created required calculations and measures using DAX.
+Designed interactive charts, KPIs, and slicers.
+Created the final HR Analytics Dashboard.
+Analyzed the dashboard to identify useful HR insights.
+Skills Demonstrated
+Data Cleaning
+Data Transformation
 Data Visualization
-    ↓
-Interactive HR Analytics Dashboard
-Dashboard Preview
+Power BI Dashboard Development
+DAX
+Power Query
+Interactive Dashboard Design
+HR Data Analysis
+Data Interpretation
 
-The final dashboard provides a single-page interactive view of important HR metrics and employee-related trends.
+<img width="1920" height="1080" alt="Screenshot 2026-09-14 174913" src="https://github.com/user-attachments/assets/442cc7de-cf16-4633-89c1-0f90a0243ce3" />
 
-Learning Outcomes
-
-Through this project, I gained practical experience in:
-Data cleaning and transformation
-Power BI dashboard creation
-Data visualization
-Creating interactive slicers
-Using DAX measures
-Analyzing HR data
-Presenting data-driven insights
-Designing an interactive and user-friendly dashboard
 
 Conclusion
-The HR Analytics Dashboard demonstrates how Power BI can be used to convert employee data into meaningful visual insights. The dashboard makes it easier to understand workforce patterns and provides a foundation for making data-driven HR decisions.
+
+The HR Analytics Dashboard demonstrates how Power BI can be used to convert employee data into meaningful and interactive visual insights. The project helped in understanding how data visualization and analytics can be applied to HR-related information for better workforce analysis and data-driven decision-making.
 
 Author
+
 Jashanpreet Kaur
