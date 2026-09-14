@@ -142,4 +142,4 @@ It can help HR professionals understand workforce patterns and support data-driv
 
 **Jashanpreet Kaur**
 
-**BBA (Business Analytics) Student**
+
